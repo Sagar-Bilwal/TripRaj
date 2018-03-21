@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/comment_name"
+        android:layout_width="131dp"
+        android:layout_height="40dp"
+        android:gravity="center|left"
+        android:hint="User_Name :"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/comment_body"
+        android:layout_width="231dp"
+        android:layout_height="40dp"
+        android:gravity="center|left"
+        android:hint="Comment_Body"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+</LinearLayout>
