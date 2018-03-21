@@ -1,8 +1,9 @@
 # TripRaj
 
 ### Team Name : Aades
-### Team Leader : Sagar Bilwal
-### Team Members : Pranay Anand, Harshit Kohli, Priyank AhujaSSO ID : BILWAL.SAGAR  
+#### Team Leader : Sagar Bilwal
+#### Team Members : Pranay Anand, Harshit Kohli, Priyank Ahuja
+#### SSO ID : BILWAL.SAGAR  
 
 ## PROBLEM STATEMENT
 ##### 1. Lack of genuine reviews of tourist attractions :
